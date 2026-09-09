@@ -25,7 +25,7 @@ Planning to compete again next season — with a full write-up this time.
 
 **CompTIA:** Security+ · Linux+
 
-**GIAC:** Certified Incident Handler (GCIH) · Security Essentials (GSEC) · Foundational Cybersecurity Technologies (GFACT)
+**GIAC:** Certified Python Coder (GPYC) · Certified Incident Handler (GCIH) · Security Essentials (GSEC) · Foundational Cybersecurity Technologies (GFACT)
 
 <!--
 **Carson-Ratzlaff/carson-ratzlaff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
